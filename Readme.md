@@ -1,4 +1,4 @@
-#Azure AI Assistente  
+Azure AI Assistente  
 
 Na pasta Azure_AI_Assistente, há uma imagem demonstrando o uso do Azure Playground.
 Nesta demo, apresentamos um assistente de suporte:  
