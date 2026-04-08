@@ -1,6 +1,3 @@
 # azure-ai-assistant
 
-Na pasta Azure_AI_Assistente, há uma imagem demonstrando o uso do Azure Playground.
-Nesta demo, apresentamos um assistente de suporte:  
-
-Um chatbot projetado para responder a perguntas básicas sobre problemas comuns em TI, como redefinição de senha e falhas de conexão com a internet.
+Na pasta azure-ai-assistant, há uma imagem que demonstra o uso do Azure Playground. Nesta demonstração, apresentamos um assistente de suporte: um chatbot desenvolvido para responder a questões básicas de TI, como redefinição de senha e problemas de conectividade com a internet.
